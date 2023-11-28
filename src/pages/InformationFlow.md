@@ -1,5 +1,5 @@
 ---
-title: "Informaton Flow"
+title: "Information Flow"
 description: "The information I consume, how and when"
 ---
 
