@@ -17,6 +17,8 @@ Relying on emails and bookmarked websites means being exposed to a firehose of i
 
 Below are my (evolving) notes on how I keep up to date, when and what I consume. 
 
+---
+
 ## How I read 
 
 Almost everything I read is funneled through Inoreader, which is a modern RSS/newsfeed reader but has a few superpowers, principally the ability to subscribe to emails and read them alongside all my other news feeds, and filter and alert based on keywords. 
@@ -30,9 +32,13 @@ Inoreader have a good primer on RSS feeds here. Other services are available, Fe
 
 I receive a handful of email newsletters via my firm's subscriptions and they are filtered using Rules in Outlook into a Newsletters folder for reading later and preventing noise in my inbox. 
 
+---
+
 ## When I read 
 
 I bookend my day with times set aside for catching up on web content. I try not to dip into Inoreader during the working day as it knocks me off my schedule, unless I have some downtime (e.g. travel, time over lunch). I find it valuable reading content in Inoreader in chunks, as I can draw comparisons and connections between stories - e.g. a variety of perspectives on a recent law firm or legaltech announcement. 
+
+---
 
 ## What I read 
 
