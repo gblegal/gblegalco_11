@@ -1,3 +1,9 @@
+---
+title: "Uses"
+description: "What I use"
+---
+
+
 Welcome to my /uses page, containing a few lists of hardware, software, and services I use.
 
 The below largely relates to my home office, where I work 2-3 days a week:
