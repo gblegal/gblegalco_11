@@ -10,6 +10,8 @@ The below largely relates to my home office, where I work 2-3 days a week:
 
 - _Photos coming_
 
+---
+
 ## Hardware
 
 -  iPad Pro M1 (2018)
