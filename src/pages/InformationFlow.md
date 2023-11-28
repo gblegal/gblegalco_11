@@ -1,3 +1,9 @@
+---
+title: "Informaton Flow"
+description: "The information I consume, how and when"
+---
+
+
 # Information: My how, when, what 
 
 Written by: Greg Baker 
